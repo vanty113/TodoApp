@@ -1,0 +1,17 @@
+.task-detail {
+    margin-top: 15%;
+    margin-left: 27%;
+    input {
+        outline: none;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+    }
+    .submit-btn input{
+        padding: 5px;
+        margin: 10px;
+        border: 1px solid black;
+        border-radius: 5px;
+        width: 50px;
+        cursor: pointer;
+    }
+}

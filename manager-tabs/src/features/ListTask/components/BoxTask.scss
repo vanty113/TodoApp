@@ -1,0 +1,18 @@
+.box-task {
+    width: 200px;
+    border: 2px solid #7A6FF2;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    p {
+        margin: 0;
+    }
+    .todo-desscription {
+        border-top: 2px solid #7A6FF2;
+        padding-top: 5px;
+        margin-top: 7px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+}

@@ -1,0 +1,28 @@
+.header {
+    width: 98%;
+    display: flex;
+    padding: 10px;
+    background-color: #8D84F4;
+    .new-task-btn{
+        flex: 20%;
+    }
+    .search-input {
+        flex: 80%;
+    }
+    button, input {
+        padding: 5px;
+        border: 1px solid white;
+        color: white;
+        background-color: #8D84F4;
+    }
+    button {
+        cursor: pointer;
+        border-radius: 0 5px 5px 0;
+    }
+    input{
+        width: 200px;
+        margin: 0 5px 0 400px;
+        border-radius: 5px 0 0 5px;
+        outline: none;
+    }
+}

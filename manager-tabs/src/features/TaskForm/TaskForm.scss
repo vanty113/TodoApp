@@ -1,0 +1,19 @@
+.task-form {
+    margin-top: 15%;
+    margin-left: 27%;
+    input {
+        width: 59%;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+        margin-left: 20px;
+        outline: none;
+    }
+    .submit-btn {
+        cursor: pointer;
+        border-radius: 5px;
+        border: 1px solid black;
+        width: 60px;
+        padding: 10px;
+        margin-left: 70px;
+    }
+}
